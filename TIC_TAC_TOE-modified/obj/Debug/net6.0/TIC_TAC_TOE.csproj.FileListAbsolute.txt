@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\TIC_TAC_TOE-modified\TIC_TAC_TOE-modified\bin\Debug\net6.0\TIC_TAC_TOE.exe
+C:\Users\user\Desktop\TIC_TAC_TOE-modified\TIC_TAC_TOE-modified\bin\Debug\net6.0\TIC_TAC_TOE.deps.json
+C:\Users\user\Desktop\TIC_TAC_TOE-modified\TIC_TAC_TOE-modified\bin\Debug\net6.0\TIC_TAC_TOE.runtimeconfig.json
+C:\Users\user\Desktop\TIC_TAC_TOE-modified\TIC_TAC_TOE-modified\bin\Debug\net6.0\TIC_TAC_TOE.dll
+C:\Users\user\Desktop\TIC_TAC_TOE-modified\TIC_TAC_TOE-modified\bin\Debug\net6.0\TIC_TAC_TOE.pdb
+C:\Users\user\Desktop\TIC_TAC_TOE-modified\TIC_TAC_TOE-modified\obj\Debug\net6.0\TIC_TAC_TOE.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TIC_TAC_TOE-modified\TIC_TAC_TOE-modified\obj\Debug\net6.0\TIC_TAC_TOE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\TIC_TAC_TOE-modified\TIC_TAC_TOE-modified\obj\Debug\net6.0\TIC_TAC_TOE.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\TIC_TAC_TOE-modified\TIC_TAC_TOE-modified\obj\Debug\net6.0\TIC_TAC_TOE.AssemblyInfo.cs
+C:\Users\user\Desktop\TIC_TAC_TOE-modified\TIC_TAC_TOE-modified\obj\Debug\net6.0\TIC_TAC_TOE.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TIC_TAC_TOE-modified\TIC_TAC_TOE-modified\obj\Debug\net6.0\TIC_TAC_TOE.dll
+C:\Users\user\Desktop\TIC_TAC_TOE-modified\TIC_TAC_TOE-modified\obj\Debug\net6.0\refint\TIC_TAC_TOE.dll
+C:\Users\user\Desktop\TIC_TAC_TOE-modified\TIC_TAC_TOE-modified\obj\Debug\net6.0\TIC_TAC_TOE.pdb
+C:\Users\user\Desktop\TIC_TAC_TOE-modified\TIC_TAC_TOE-modified\obj\Debug\net6.0\TIC_TAC_TOE.genruntimeconfig.cache
+C:\Users\user\Desktop\TIC_TAC_TOE-modified\TIC_TAC_TOE-modified\obj\Debug\net6.0\ref\TIC_TAC_TOE.dll
